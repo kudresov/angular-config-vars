@@ -1,0 +1,29 @@
+{
+  "name": "angular-config-vars",
+  "version": "1.0.0",
+  "description": "Example of how to correctly inject configuration into angular",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.13.3",
+    "gulp": "^3.9.0",
+    "gulp-ng-config": "^1.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kudresov/angular-config-vars.git"
+  },
+  "keywords": [
+    "angularjs"
+  ],
+  "author": "Vitalij Kudresov <kudresov@gmail.com> (http://kudresov.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kudresov/angular-config-vars/issues"
+  },
+  "homepage": "https://github.com/kudresov/angular-config-vars#readme"
+}
